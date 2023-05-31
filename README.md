@@ -21,16 +21,17 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello-Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is my first repository at Microverse
+**Hello-Microverse** is a vanilla-css project for learning web development.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -43,19 +44,22 @@
   </ul>
 </details>
 
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
+- **Added the styles for header**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+Still not have live demo
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -73,6 +77,7 @@ Clone this repository to your desired folder:
 
 https://github.com/Nelofarzabi/Hello__Microverse-
 
+
 ### Install
 
 Install this project with: 
@@ -81,15 +86,28 @@ Install this project with:
   cd Hello_Microverse-
  npm install
 ```
+
 ### Usage
 
 To run the project, execute the following command:
 
-npm install
+> npm install
+
+### Run tests
+
+> npx hint .
+
+
+### Deployment
+
+Project can be deploy by using the gh-pages and other web plaform.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors"></a>
+
 
 👤 **Nelofar Zabi**
 
@@ -99,11 +117,15 @@ npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--FUTURE FUTURES -->
-## Future Features <a name ="future-features"></a>
--[ ] **[Portfolio]**
--[ ] **[Mobile Version]**
--[ ] **[Desktop Version]**
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Portfolio**
+- [ ] **Mobile Version**
+- [ ] **Desktop Version**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -123,18 +145,20 @@ If you like this project give a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank from Microverse
+I would like to thanks from Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Nelofarzabi/Hello__Microverse-/blob/main/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
